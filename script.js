@@ -1,0 +1,1 @@
+// Aquí se colocará el JavaScript real de la malla curricular interactiva
